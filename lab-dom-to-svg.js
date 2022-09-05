@@ -3,7 +3,7 @@
 
 
  import express from 'Express';
-
+ import { documentToSVG, elementToSVG, inlineResources } from 'dom-to-svg';
 
 
 
